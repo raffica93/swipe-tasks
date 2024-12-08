@@ -1,0 +1,31 @@
+.swipe-card {
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.swipe-card.swiping-right {
+  background-color: #4ade80 !important;
+  transform: rotate(5deg);
+}
+
+.swipe-card.swiping-left {
+  background-color: #f87171 !important;
+  transform: rotate(-5deg);
+}
+
+.task-number {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  background-color: #3b82f6;
+  color: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

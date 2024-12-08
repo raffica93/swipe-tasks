@@ -1,0 +1,1054 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Viaggio on the road",
+      "description": "Pianifica e realizza un viaggio on the road, esplorando luoghi nuovi e vivendo l'avventura della strada",
+      "category": "Creatività",
+      "points": 100,
+      "completed": false,
+      "createdAt": "2024-12-08T11:20:33+01:00",
+      "userId": "user1"
+    },
+    {
+      "id": "2",
+      "title": "Adottare un animale",
+      "description": "Dai una casa e tanto amore a un animale domestico bisognoso",
+      "category": "Relazioni",
+      "points": 80,
+      "completed": false,
+      "createdAt": "2024-12-08T11:20:33+01:00",
+      "userId": "user1"
+    },
+    {
+      "id": "3",
+      "title": "Aurora Boreale",
+      "description": "Viaggia verso il nord per ammirare lo spettacolo magico dell'aurora boreale",
+      "category": "Avventura",
+      "points": 120,
+      "completed": false,
+      "createdAt": "2024-12-08T11:20:33+01:00",
+      "userId": "user1"
+    },
+    {
+      "id": "4",
+      "title": "Fare volontariato",
+      "description": "Dedica del tempo ad aiutare gli altri attraverso attività di volontariato",
+      "category": "Relazioni",
+      "points": 90,
+      "completed": false,
+      "createdAt": "2024-12-08T11:20:33+01:00",
+      "userId": "user1"
+    },
+    {
+      "id": "5",
+      "title": "Coltivare il proprio cibo",
+      "description": "Crea un orto e impara a coltivare i tuoi prodotti",
+      "category": "Natura",
+      "points": 70,
+      "completed": false,
+      "createdAt": "2024-12-08T11:20:33+01:00",
+      "userId": "user1"
+    },
+    {
+      "id": "6",
+      "title": "Fare un viaggio in macchina",
+      "description": "Fare un viaggio in macchina",
+      "category": "Creatività",
+      "points": 88,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.844Z",
+      "userId": "user1"
+    },
+    {
+      "id": "7",
+      "title": "Adottare un animale domestico",
+      "description": "Adottare un animale domestico",
+      "category": "Relazioni",
+      "points": 84,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "8",
+      "title": "Vedere l'aurora boreale",
+      "description": "Vedere l'aurora boreale",
+      "category": "Avventura",
+      "points": 55,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "9",
+      "title": "Fare volontariato",
+      "description": "Fare volontariato",
+      "category": "Relazioni",
+      "points": 100,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "10",
+      "title": "Coltivare il proprio cibo",
+      "description": "Coltivare il proprio cibo",
+      "category": "Natura",
+      "points": 78,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "11",
+      "title": "Scrivere una poesia",
+      "description": "Scrivere una poesia",
+      "category": "Creatività",
+      "points": 93,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "12",
+      "title": "Andare in barca a vela",
+      "description": "Andare in barca a vela",
+      "category": "Avventura",
+      "points": 79,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "13",
+      "title": "Cucinare una torta",
+      "description": "Cucinare una torta",
+      "category": "Creatività",
+      "points": 62,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "14",
+      "title": "Imparare a suonare uno strumento musicale",
+      "description": "Imparare a suonare uno strumento musicale",
+      "category": "Creatività",
+      "points": 81,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "15",
+      "title": "Organizzare una festa a tema",
+      "description": "Organizzare una festa a tema",
+      "category": "Creatività",
+      "points": 99,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "16",
+      "title": "Nuotare nell'oceano",
+      "description": "Nuotare nell'oceano",
+      "category": "Avventura",
+      "points": 71,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "17",
+      "title": "Innamorarsi",
+      "description": "Innamorarsi",
+      "category": "Relazioni",
+      "points": 78,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "18",
+      "title": "Andare in safari",
+      "description": "Andare in safari",
+      "category": "Avventura",
+      "points": 79,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "19",
+      "title": "Frequentare un corso di ceramica",
+      "description": "Frequentare un corso di ceramica",
+      "category": "Creatività",
+      "points": 68,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "20",
+      "title": "Fare surf",
+      "description": "Fare surf",
+      "category": "Avventura",
+      "points": 51,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "21",
+      "title": "Visitare tutti i continenti",
+      "description": "Visitare tutti i continenti",
+      "category": "Avventura",
+      "points": 68,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "22",
+      "title": "Piantare un albero",
+      "description": "Piantare un albero",
+      "category": "Natura",
+      "points": 83,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "23",
+      "title": "Correre una maratona(min 5 km)",
+      "description": "Correre una maratona(min 5 km)",
+      "category": "Health",
+      "points": 77,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "24",
+      "title": "Dare un bacio ai nonni",
+      "description": "Dare un bacio ai nonni",
+      "category": "Relazioni",
+      "points": 96,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "25",
+      "title": "Fare 24 ore senza tecnologia",
+      "description": "Fare 24 ore senza tecnologia",
+      "category": "Personal Development",
+      "points": 50,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "26",
+      "title": "Fare meditazione (min 1 ora)",
+      "description": "Fare meditazione (min 1 ora)",
+      "category": "Personal Development",
+      "points": 53,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "27",
+      "title": "Donare soldi in beneficenza",
+      "description": "Donare soldi in beneficenza",
+      "category": "Relazioni",
+      "points": 96,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "28",
+      "title": "Andare in campeggio (min 1 notte)",
+      "description": "Andare in campeggio (min 1 notte)",
+      "category": "Avventura",
+      "points": 83,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "29",
+      "title": "Bere del vino costoso (min 100 €)",
+      "description": "Bere del vino costoso (min 100 €)",
+      "category": "Personal Development",
+      "points": 98,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "30",
+      "title": "Rimanere svegli fino all'alba",
+      "description": "Rimanere svegli fino all'alba",
+      "category": "Health",
+      "points": 100,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "31",
+      "title": "Creare un vlog",
+      "description": "Creare un vlog",
+      "category": "Creatività",
+      "points": 99,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "32",
+      "title": "Mangiare in un ristorante stellato Michelin",
+      "description": "Mangiare in un ristorante stellato Michelin",
+      "category": "Personal Development",
+      "points": 91,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "33",
+      "title": "Assistere a un'eclissi solare",
+      "description": "Assistere a un'eclissi solare",
+      "category": "Personal Development",
+      "points": 53,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "34",
+      "title": "Andare sulle montagne russe",
+      "description": "Andare sulle montagne russe",
+      "category": "Avventura",
+      "points": 61,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "35",
+      "title": "Visitare un deserto",
+      "description": "Visitare un deserto",
+      "category": "Avventura",
+      "points": 66,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "36",
+      "title": "Fare immersioni subacquee",
+      "description": "Fare immersioni subacquee",
+      "category": "Avventura",
+      "points": 100,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "37",
+      "title": "Trovare un nuovo amico",
+      "description": "Trovare un nuovo amico",
+      "category": "Relazioni",
+      "points": 75,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "38",
+      "title": "Fare un corso yoga (min 1 ora)",
+      "description": "Fare un corso yoga (min 1 ora)",
+      "category": "Health",
+      "points": 74,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "39",
+      "title": "Costruire un pupazzo di neve",
+      "description": "Costruire un pupazzo di neve",
+      "category": "Creatività",
+      "points": 84,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "40",
+      "title": "Scalare una montagna",
+      "description": "Scalare una montagna",
+      "category": "Avventura",
+      "points": 86,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "41",
+      "title": "Imparare una lingua straniera",
+      "description": "Imparare una lingua straniera",
+      "category": "Personal Development",
+      "points": 57,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "42",
+      "title": "Andare all'opera o a teatro ",
+      "description": "Andare all'opera o a teatro ",
+      "category": "Creatività",
+      "points": 67,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "43",
+      "title": "Vedere un ghiacciaio ",
+      "description": "Vedere un ghiacciaio ",
+      "category": "Avventura",
+      "points": 77,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "44",
+      "title": "Vedere delfini in mare aperto",
+      "description": "Vedere delfini in mare aperto",
+      "category": "Avventura",
+      "points": 86,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "45",
+      "title": "Regalare vecchi vestiti",
+      "description": "Regalare vecchi vestiti",
+      "category": "Relazioni",
+      "points": 74,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "46",
+      "title": "Tracciare il proprio albero genealogico",
+      "description": "Tracciare il proprio albero genealogico",
+      "category": "Personal Development",
+      "points": 70,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "47",
+      "title": "Lanciarsi con il paracadute o gabbia del vento",
+      "description": "Lanciarsi con il paracadute o gabbia del vento",
+      "category": "Avventura",
+      "points": 88,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "48",
+      "title": "Investire dei soldi per il futuro",
+      "description": "Investire dei soldi per il futuro",
+      "category": "Personal Development",
+      "points": 64,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "49",
+      "title": "Esplorare per bene un parco nazionale",
+      "description": "Esplorare per bene un parco nazionale",
+      "category": "Avventura",
+      "points": 74,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "50",
+      "title": "Consolare un amico",
+      "description": "Consolare un amico",
+      "category": "Relazioni",
+      "points": 96,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "51",
+      "title": "Andare a un corso di ballo",
+      "description": "Andare a un corso di ballo",
+      "category": "Creatività",
+      "points": 89,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "52",
+      "title": "Fare il pane fatto in casa",
+      "description": "Fare il pane fatto in casa",
+      "category": "Creatività",
+      "points": 90,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "53",
+      "title": "Partecipare a una manifestazione",
+      "description": "Partecipare a una manifestazione",
+      "category": "Relazioni",
+      "points": 94,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "54",
+      "title": "Imparare a suonare la scala pentatonica alla chitarra",
+      "description": "Imparare a suonare la scala pentatonica alla chitarra",
+      "category": "Creatività",
+      "points": 85,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "55",
+      "title": "Scrivere un libro",
+      "description": "Scrivere un libro",
+      "category": "Creatività",
+      "points": 61,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "56",
+      "title": "Fare 100 fotografie in un giorno",
+      "description": "Fare 100 fotografie in un giorno",
+      "category": "Creatività",
+      "points": 52,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "57",
+      "title": "Giocare a un gioco da tavola",
+      "description": "Giocare a un gioco da tavola",
+      "category": "Relazioni",
+      "points": 76,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "58",
+      "title": "Partecipare a una caccia al tesoro",
+      "description": "Partecipare a una caccia al tesoro",
+      "category": "Avventura",
+      "points": 64,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "59",
+      "title": "Visitare una delle sette meraviglie del Mondo Antico",
+      "description": "Visitare una delle sette meraviglie del Mondo Antico",
+      "category": "Avventura",
+      "points": 64,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "60",
+      "title": "Creare un giardino verticale",
+      "description": "Creare un giardino verticale",
+      "category": "Creatività",
+      "points": 73,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "61",
+      "title": "Partecipare a un festival musicale per piu di un giorno",
+      "description": "Partecipare a un festival musicale per piu di un giorno",
+      "category": "Creatività",
+      "points": 57,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "62",
+      "title": "Imparare a fare almeno 7 cocktail",
+      "description": "Imparare a fare almeno 7 cocktail",
+      "category": "Creatività",
+      "points": 73,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "63",
+      "title": "Fare un viaggio in solitaria",
+      "description": "Fare un viaggio in solitaria",
+      "category": "Avventura",
+      "points": 92,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "64",
+      "title": "Imparare a fare massaggi",
+      "description": "Imparare a fare massaggi",
+      "category": "Health",
+      "points": 70,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "65",
+      "title": "Travestirsi da cosplay",
+      "description": "Travestirsi da cosplay",
+      "category": "Creatività",
+      "points": 72,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "66",
+      "title": "Imparare a fare almeno 3 origami",
+      "description": "Imparare a fare almeno 3 origami",
+      "category": "Creatività",
+      "points": 59,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "67",
+      "title": "Visitare un vulcano attivo",
+      "description": "Visitare un vulcano attivo",
+      "category": "Avventura",
+      "points": 72,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "68",
+      "title": "Fare un viaggio in mongolfiera",
+      "description": "Fare un viaggio in mongolfiera",
+      "category": "Avventura",
+      "points": 53,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "69",
+      "title": "andare a una sfilata di moda",
+      "description": "andare a una sfilata di moda",
+      "category": "Creatività",
+      "points": 77,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "70",
+      "title": "Fare un graffito o scritta in strada",
+      "description": "Fare un graffito o scritta in strada",
+      "category": "Creatività",
+      "points": 93,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "71",
+      "title": "Giocare a un gioco online con amici ",
+      "description": "Giocare a un gioco online con amici ",
+      "category": "Relazioni",
+      "points": 50,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "72",
+      "title": "Imparare a fare il sushi a casa",
+      "description": "Imparare a fare il sushi a casa",
+      "category": "Creatività",
+      "points": 80,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "73",
+      "title": "Visitare una città abbandonata",
+      "description": "Visitare una città abbandonata",
+      "category": "Avventura",
+      "points": 64,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "74",
+      "title": "Partecipare a un flash mob",
+      "description": "Partecipare a un flash mob",
+      "category": "Creatività",
+      "points": 91,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "75",
+      "title": "Creare un proprio profumo",
+      "description": "Creare un proprio profumo",
+      "category": "Creatività",
+      "points": 78,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "76",
+      "title": "Crearsi un oggetto utile ",
+      "description": "Crearsi un oggetto utile ",
+      "category": "Creatività",
+      "points": 64,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "77",
+      "title": "Partecipare a una gara di mangiate",
+      "description": "Partecipare a una gara di mangiate",
+      "category": "Health",
+      "points": 85,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "78",
+      "title": "Dipingere un quadro",
+      "description": "Dipingere un quadro",
+      "category": "Creatività",
+      "points": 78,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "79",
+      "title": "Partecipare a una danza tradizionale locale",
+      "description": "Partecipare a una danza tradizionale locale",
+      "category": "Avventura",
+      "points": 62,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "80",
+      "title": "Visitare un sito archeologico antico",
+      "description": "Visitare un sito archeologico antico",
+      "category": "Personal Development",
+      "points": 88,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "81",
+      "title": "Curare una pianta per almeno un anno",
+      "description": "Curare una pianta per almeno un anno",
+      "category": "Personal Development",
+      "points": 90,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "82",
+      "title": "Andare a una mostra d'arte",
+      "description": "Andare a una mostra d'arte",
+      "category": "Creatività",
+      "points": 75,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "83",
+      "title": "Insegnare una competenza a qualcuno",
+      "description": "Insegnare una competenza a qualcuno",
+      "category": "Personal Development",
+      "points": 79,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "84",
+      "title": "Imparare a fare il mosaico",
+      "description": "Imparare a fare il mosaico",
+      "category": "Creatività",
+      "points": 100,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "85",
+      "title": "Partecipare a una competizione di sand art",
+      "description": "Partecipare a una competizione di sand art",
+      "category": "Creatività",
+      "points": 65,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "86",
+      "title": "Imparare a fare la calligrafia",
+      "description": "Imparare a fare la calligrafia",
+      "category": "Creatività",
+      "points": 92,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "87",
+      "title": "Visitare un monastero",
+      "description": "Visitare un monastero",
+      "category": "Personal Development",
+      "points": 81,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "88",
+      "title": "Fare un tour in elicottero",
+      "description": "Fare un tour in elicottero",
+      "category": "Avventura",
+      "points": 77,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "89",
+      "title": "Digiunare volontariamente per 24 ore",
+      "description": "Digiunare volontariamente per 24 ore",
+      "category": "Personal Development",
+      "points": 75,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "90",
+      "title": "Organizzare una cena a lume di candela",
+      "description": "Organizzare una cena a lume di candela",
+      "category": "Relazioni",
+      "points": 56,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "91",
+      "title": "Andare allo stadio",
+      "description": "Andare allo stadio",
+      "category": "Relazioni",
+      "points": 82,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "92",
+      "title": "Scrivere una lettera a se stessi del futuro",
+      "description": "Scrivere una lettera a se stessi del futuro",
+      "category": "Personal Development",
+      "points": 82,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "93",
+      "title": "Fare amicizia con qualcuno di un'altra cultura",
+      "description": "Fare amicizia con qualcuno di un'altra cultura",
+      "category": "Relazioni",
+      "points": 86,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "94",
+      "title": "Bere del the con biscotti in una sala da te",
+      "description": "Bere del the con biscotti in una sala da te",
+      "category": "Relazioni",
+      "points": 53,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "95",
+      "title": "Imparare ad andare a cavallo",
+      "description": "Imparare ad andare a cavallo",
+      "category": "Avventura",
+      "points": 63,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "96",
+      "title": "Creare e usare (per 1 mese) un account social falso",
+      "description": "Creare e usare (per 1 mese) un account social falso",
+      "category": "Relazioni",
+      "points": 73,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "97",
+      "title": "Andare a pesca",
+      "description": "Andare a pesca",
+      "category": "Avventura",
+      "points": 69,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "98",
+      "title": "Passare una notte in un grattacielo di lusso",
+      "description": "Passare una notte in un grattacielo di lusso",
+      "category": "Avventura",
+      "points": 62,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "99",
+      "title": "Fare una passegiata notturna",
+      "description": "Fare una passegiata notturna",
+      "category": "Avventura",
+      "points": 75,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "100",
+      "title": "Fare il bagno a mare nudi",
+      "description": "Fare il bagno a mare nudi",
+      "category": "Avventura",
+      "points": 76,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "101",
+      "title": "Fare un puzzle (Min 1000 pz)",
+      "description": "Fare un puzzle (Min 1000 pz)",
+      "category": "Creatività",
+      "points": 53,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "102",
+      "title": "Fare 21 giorni senza carne (dieta vegetariana)",
+      "description": "Fare 21 giorni senza carne (dieta vegetariana)",
+      "category": "Personal Development",
+      "points": 74,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "103",
+      "title": "Fare un viaggio senza una destinazione pianificata ",
+      "description": "Fare un viaggio senza una destinazione pianificata ",
+      "category": "Avventura",
+      "points": 62,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "104",
+      "title": "Imparare a sciare/snowboard ",
+      "description": "Imparare a sciare/snowboard ",
+      "category": "Health",
+      "points": 74,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    },
+    {
+      "id": "105",
+      "title": "Visitare la tua città per un giorno da turista",
+      "description": "Visitare la tua città per un giorno da turista",
+      "category": "Avventura",
+      "points": 98,
+      "completed": false,
+      "createdAt": "2024-12-08T10:33:54.845Z",
+      "userId": "user1"
+    }
+  ]
+}
