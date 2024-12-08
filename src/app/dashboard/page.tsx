@@ -32,14 +32,16 @@ export default function DashboardPage() {
     },
   });
 
+  const [tasks] = useState<Task[]>(() => {
+    return tasksData.tasks.map(task => ({
+      ...task,
+      createdAt: new Date(task.createdAt),
+      category: task.category as TaskCategory,
+    }));
+  });
+
   useEffect(() => {
     // In a real app, this would come from an API/database
-    const tasks = tasksData.tasks.map(task => ({
-      ...task,
-      createdAt: new Date(task.createdAt)
-    })) as Task[];
-    const completedTasks = tasks.filter(task => task.completed);
-    
     const newStats = tasks.reduce((acc, task) => {
       const category = task.category as TaskCategory;
       
@@ -73,7 +75,7 @@ export default function DashboardPage() {
     } as UserStats);
 
     setStats(newStats);
-  }, []);
+  }, [tasks]);
 
   return (
     <main className="flex min-h-screen flex-col items-center p-4 pt-24 pb-20">

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { Navigation } from '@/components/ui/Navigation';
 
 export default function Home() {
   return (

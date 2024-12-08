@@ -15,4 +15,12 @@ export interface User {
   id: string;
   name: string;
   email: string;
+  points?: number; 
+  streak?: number;
+  achievements?: {
+    id: string;
+    name: string;
+    description: string;
+    unlockedAt: Date;
+  }[];
 }

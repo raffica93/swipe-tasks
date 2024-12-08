@@ -17,7 +17,7 @@ export const SwipeCard = ({ task, onSwipe, taskNumber }: SwipeCardProps) => {
   const [exitX, setExitX] = useState<number>(0);
   const [swipeDirection, setSwipeDirection] = useState<'left' | 'right' | null>(null);
 
-  const handleDrag = (event: any, info: PanInfo) => {
+  const handleDrag = (event: MouseEvent | TouchEvent | PointerEvent, info: PanInfo) => {
     const xOffset = info.offset.x;
     if (xOffset > 50) {
       setSwipeDirection('right');
@@ -28,7 +28,7 @@ export const SwipeCard = ({ task, onSwipe, taskNumber }: SwipeCardProps) => {
     }
   };
 
-  const handleDragEnd = async (event: any, info: PanInfo) => {
+  const handleDragEnd = async (event: MouseEvent | TouchEvent | PointerEvent, info: PanInfo) => {
     const threshold = 100;
     if (Math.abs(info.offset.x) > threshold) {
       const direction = info.offset.x > 0 ? 'right' : 'left';
