@@ -18,7 +18,7 @@ async function convertCsvToJson() {
         return;
       }
 
-      const tasks = records.map((record: any, index: number) => ({
+      const tasks = records.map((record: { Task?: string; Description?: string; Category?: string }, index: number) => ({
         id: String(index + 1),
         title: record.Task || '',
         description: record.Description || '',
