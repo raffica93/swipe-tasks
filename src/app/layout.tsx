@@ -30,7 +30,6 @@ export default function RootLayout({
         <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
         <meta httpEquiv="Pragma" content="no-cache" />
         <meta httpEquiv="Expires" content="0" />
-        <link rel="preload" href={inter.url} as="font" crossOrigin="" />
       </head>
       <body className="min-h-screen bg-background text-foreground">
         <Theme appearance="light" accentColor="blue" radius="large" className="min-h-screen">

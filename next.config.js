@@ -15,9 +15,9 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  webpack: (config, { isServer }) => {
+  webpack: (config, { dev, isServer }) => {
     // CSS handling optimization
-    if (!isServer) {
+    if (!isServer && !dev) {
       config.optimization.splitChunks.cacheGroups = {
         ...config.optimization.splitChunks.cacheGroups,
         styles: {
@@ -25,11 +25,15 @@ const nextConfig = {
           test: /\.(css|scss)$/,
           chunks: 'all',
           enforce: true,
+          priority: 10,
         },
       };
     }
     return config;
   },
+  experimental: {
+    optimizeCss: true // Enable CSS optimization
+  }
 };
 
 module.exports = nextConfig;
