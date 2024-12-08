@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import { Inter } from 'next/font/google';
+import '@radix-ui/themes/styles.css';
 import "./globals.css";
 import { Theme } from '@radix-ui/themes';
-import '@radix-ui/themes/styles.css';
 import { Navigation } from '@/components/ui/Navigation';
-import { headers } from 'next/headers';
 
-const inter = Inter({ subsets: ['latin'] });
+const inter = Inter({ 
+  subsets: ['latin'],
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
   title: "SwipeTasks - Task Management Made Fun",
@@ -28,10 +30,11 @@ export default function RootLayout({
         <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
         <meta httpEquiv="Pragma" content="no-cache" />
         <meta httpEquiv="Expires" content="0" />
+        <link rel="preload" href={inter.url} as="font" crossOrigin="" />
       </head>
-      <body>
-        <Theme appearance="light" accentColor="blue" radius="large">
-          <div className="pb-16 min-h-screen"> 
+      <body className="min-h-screen bg-background text-foreground">
+        <Theme appearance="light" accentColor="blue" radius="large" className="min-h-screen">
+          <div className="pb-16"> 
             {children}
           </div>
           <Navigation />
